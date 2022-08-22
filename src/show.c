@@ -3,7 +3,7 @@
 
 int a()
 {
-    printf("a\n");
+    printf("this is master\n");
     return 0;
 }
 
