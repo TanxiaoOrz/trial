@@ -3,7 +3,7 @@
 
 int a()
 {
-    printf("this is master\n");
+    printf("this is master,this is vision3\n");
     return 0;
 }
 
